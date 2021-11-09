@@ -1,0 +1,2 @@
+# Parcels Shapefile
+https://www.arcgis.com/sharing/rest/content/items/d6c42c6e3268484a8512b7ec57ecdb2f/data
